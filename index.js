@@ -1,4 +1,4 @@
-function shout(string) { console.log(string)
+function shout(string) { console.log('hello')
 } 
 
 function whisper(string) { return string.toLowerCase () }
